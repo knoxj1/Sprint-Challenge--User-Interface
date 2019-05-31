@@ -220,4 +220,96 @@ a{
 
 }
 
+
+.about {
+
+    border-bottom: 1px dashed black;
+    padding: 20px;
+
+
+}
+
+.top-center-img{
+    display: flex;
+    justify-content: center;
+}
+
+.top-center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+
+.middle-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.bottom-content{
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;   
+    margin-top:20px;
+    margin-bottom: 15px;
+}
+
+.how-we-work{
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+    margin:10px;
+}
+
+
+.strategy-text{
+    border-bottom: 1px dashed black;
+    padding-bottom: 15px;
+    margin:10px;
+}
+
+
+button{
+    margin: 10px;
+    color: black;
+    background: white;
+    border: 3px solid black;
+    border-radius: 12px;
+
+}
+
+
+button :hover{
+
+    background-color: blue;
+
+}
+button : active {
+    
+}
+
+.collaboration{
+    border-bottom: 1px dashed black;
+    padding-bottom: 15px;
+    margin:10px;
+}
+
+.places-we-work{
+    border-bottom: 1px dashed black;
+    padding-bottom: 15px;
+    margin:10px;
+}
+
+.button-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+
 /***end of code*///
