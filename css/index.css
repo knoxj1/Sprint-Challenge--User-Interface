@@ -287,7 +287,7 @@ button :hover{
 
 }
 button : active {
-    
+
 }
 
 .collaboration{
@@ -308,6 +308,10 @@ button : active {
     justify-content: center;
 
 
+}
+
+.how-we-work-button{
+    margin-top:27.5px;
 }
 
 
