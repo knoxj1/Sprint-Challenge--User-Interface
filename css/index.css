@@ -249,13 +249,17 @@ a{
 
 }
 
-.bottom-content{
+.floor-content{
     display: flex;
     justify-content: center; 
-    flex-direction: column;   
+    flex-direction: row;   
     margin-top:20px;
     margin-bottom: 15px;
+
 }
+
+
+
 
 .how-we-work{
     border-bottom: 1px dashed black;
@@ -312,6 +316,12 @@ button : active {
 
 .how-we-work-button{
     margin-top:27.5px;
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+
 }
 
 
